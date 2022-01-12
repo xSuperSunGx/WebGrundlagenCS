@@ -1,0 +1,9 @@
+﻿@using Web_Grundlagen.Models
+@model dynamic
+
+@if (Model != null && Model is Message)
+{
+    <h3>@Model.Header</h3><br>
+    <p><b>Meldung:</b><br>@Model.MessageInfo</p><br>
+    <p><b>Solution:</b><br>@Model.Solution</p><br>
+}

@@ -1,0 +1,45 @@
+﻿@model Web_Grundlagen.Models.User
+
+@{
+    ViewBag.Title = "Registration";
+    Layout = "_Layout";
+}
+
+<h2>Registration</h2>
+<p>Bitte füllen Sie die notwendigen Daten aus!</p>
+<!-- an welchen Controller und welcher Action(Kontroller) soll das Formular gesendet weren?-->
+<form asp-controller="User" asp-action="Registration" method="post">
+    <p>
+        <label asp-for="Username">Benutzername</label><br>
+        <input type="text" asp-for="Username" required><br>
+        <span class="validation" asp-validation-for="Username"></span>
+    </p>
+    <p>
+        <label asp-for="Email">Email</label><br>
+        <input type="email" asp-for="Email" required><br>
+        <span class="validation" asp-validation-for="Email"></span>
+    </p>
+    <p>
+        <label asp-for="Passsword">Passwort</label><br>
+        <input type="password" asp-for="Passsword" required> <br>
+        <span class="validation" asp-validation-for="Passsword"></span>
+    </p>
+    <p>
+        <label asp-for="Gender">Gender</label><br>
+        <select asp-for="Gender" required>
+            <option>Male</option>
+            <option>Female</option>
+            <option selected>not Specified</option>
+        </select><br>
+        <span class="validation" asp-validation-for="Gender"></span>
+    </p>
+    <p>
+        <label asp-for="Birthdate">Geburtsdatum</label><br>
+        <input type="date" asp-for="Birthdate" required><br>
+        <span class="validation" asp-validation-for="Birthdate"></span>
+    </p>
+    <p>
+        <input type="submit" value="Absenden">
+        <input type="reset" value="Reset">
+    </p>
+</form>

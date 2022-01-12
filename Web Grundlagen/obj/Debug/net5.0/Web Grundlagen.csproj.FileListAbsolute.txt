@@ -1,0 +1,47 @@
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\bin\Debug\net5.0\appsettings.json
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\bin\Debug\net5.0\Web Grundlagen.exe
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\bin\Debug\net5.0\Web Grundlagen.deps.json
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\bin\Debug\net5.0\Web Grundlagen.runtimeconfig.json
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\bin\Debug\net5.0\Web Grundlagen.runtimeconfig.dev.json
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\bin\Debug\net5.0\Web Grundlagen.dll
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\bin\Debug\net5.0\ref\Web Grundlagen.dll
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\bin\Debug\net5.0\Web Grundlagen.pdb
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\bin\Debug\net5.0\Web Grundlagen.Views.dll
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\bin\Debug\net5.0\Web Grundlagen.Views.pdb
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Web Grundlagen.csproj.AssemblyReference.cache
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Web Grundlagen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Web Grundlagen.AssemblyInfoInputs.cache
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Web Grundlagen.AssemblyInfo.cs
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Web Grundlagen.csproj.CoreCompileInputs.cache
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Web Grundlagen.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Web Grundlagen.RazorAssemblyInfo.cache
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Web Grundlagen.RazorAssemblyInfo.cs
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\staticwebassets\Web Grundlagen.StaticWebAssets.Manifest.cache
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\staticwebassets\Web Grundlagen.StaticWebAssets.xml
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\scopedcss\bundle\Web Grundlagen.styles.css
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Web Grundlagen.TagHelpers.input.cache
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Web Grundlagen.TagHelpers.output.cache
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Web Grundlagen.RazorCoreGenerate.cache
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Web Grundlagen.RazorTargetAssemblyInfo.cache
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Web Grundlagen.RazorTargetAssemblyInfo.cs
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Web Grundlagen.Views.pdb
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Web Grundlagen.dll
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\ref\Web Grundlagen.dll
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Web Grundlagen.pdb
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Web Grundlagen.genruntimeconfig.cache
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Web Grundlagen.csproj.CopyComplete
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Razor\Views\Home\AboutUs.cshtml.g.cs
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Razor\Views\Shop\Basket.cshtml.g.cs
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Razor\Views\Shop\Index.cshtml.g.cs
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Razor\Views\Shop\Search.cshtml.g.cs
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Razor\Views\User\Registration.cshtml.g.cs
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Razor\Views\Shared\_Navigation.cshtml.g.cs
+C:\Users\noahg\RiderProjects\Web Grundlagen\Web Grundlagen\obj\Debug\net5.0\Razor\Views\Shared\_Message.cshtml.g.cs

@@ -1,0 +1,27 @@
+﻿@model Web_Grundlagen.Models.User
+
+@{
+    ViewBag.Title = "User";
+    Layout = "_Layout";
+}
+
+<h2>User - Index</h2>
+@if (Model != null)
+{
+    <p>
+        Userdaten:
+    </p>
+    <p>
+        @Model.Id <br/>
+        @Model.Username <br/>
+        @Model.Passsword <br/>
+        @Model.Birthdate.ToLongDateString() <br/>
+    </p>
+}
+else
+{
+    <p>
+        Es wurden keine Userdaten übergaben!
+    </p>
+}
+

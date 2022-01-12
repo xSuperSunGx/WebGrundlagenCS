@@ -1,0 +1,45 @@
+﻿@using Web_Grundlagen.Models
+@model dynamic
+
+@{
+    ViewBag.Title = "Shop";
+    Layout = "_Layout";
+}
+
+<h2>Shop</h2>
+
+@if (Model != null)
+{
+    <table>
+        <thead>
+            <tr>
+                <td colspan="5">Shopartikel</td>
+            </tr>
+        </thead>
+        <tbody>
+        <tr class="theader">
+            <td>Id</td>
+            <td>Name</td>
+            <td>Brand</td>
+            <td>Price</td>
+            <td>Release</td>
+        </tr>
+        @foreach (Article article in Model)
+        {
+            <tr class="tvalue">
+                <td>@article.ArticleId</td>
+                <td>@article.Name</td>
+                <td>@article.Brand</td>
+                <td>@article.Price</td>
+                <td>@article.ReleaseDate.ToLongDateString()</td>
+            </tr>
+        }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="5">Hier sind unsere Shopartikel!</td>    
+            </tr>
+        </tfoot>
+    </table>
+    
+}
